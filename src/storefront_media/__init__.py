@@ -1,0 +1,2 @@
+"""Storefront media automation example."""
+
